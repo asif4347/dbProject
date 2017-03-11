@@ -1,0 +1,142 @@
+﻿body { 
+	background:url(Images/bg2.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#welcome {
+    font-family: Century;
+    color: white;
+    float:left;
+    margin-left:120px;
+    margin-top:120px;
+    width:40%;
+    background:rgba(255,215,0,0.5);
+}
+
+#er {
+    margin-left:50px;
+    color:orangered;
+    display:none;
+}
+
+.wn {
+    margin-left:20px;
+    margin-right:20px;
+}
+
+#login {
+    margin-top:120px;
+    float:right;
+    margin-right:120px;
+    width:30%;
+    background:rgba(0, 38, 255,0.25);
+    border-radius:4px;
+    border:1px solid rgb(0, 38, 255);
+}
+
+#signin{
+    margin-top:25px;
+    margin-left:50px;
+    width:50%;
+    height:30px;
+}
+
+#pass{
+    margin-left:50px;
+    width:50%;
+    height:30px;
+}
+
+#lgb{
+    margin-left:50px;
+    height:30px;
+    color: #FFF;
+    background-color: #55ACEE;
+    background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.05));
+    border: 1px solid #3B88C3;
+    font-weight:600;
+}
+
+#new {
+    position:absolute;
+    top:350px;
+    left:250px;
+    width:60%;
+    margin-bottom:20px;
+    background:rgba(220, 223, 238, 0.75);
+    border-radius:4px;
+    border:1px solid rgb(255, 255, 255);
+}
+
+#sun{
+    margin-top:10px;
+    margin-left:40px;
+    width:40%;
+    height:30px;
+    float:left;
+}
+
+#sue{
+    margin-top:10px;
+    margin-right:40px;
+    width:40%;
+    height:30px;
+    float:right;
+}
+
+#sup{
+    margin-top:0px;
+    margin-left:40px;
+    width:40%;
+    height:30px;
+    float:left;
+}
+
+#supass{
+    margin-top:0px;
+    margin-right:40px;
+    width:40%;
+    height:30px;
+    float:right;
+}
+
+#signup{
+    margin-top:25px;
+    margin-left:340px;
+    margin-bottom:20px;
+    height:30px;
+    color: #FFF;
+    background-color: #d1a71e;
+    background-image: linear-gradient(transparent, rgba(34, 34, 109, 0.31));
+    border: 1px solid #9d7b0a;
+    font-weight:600;
+}
+
+#ntt{
+    color: #565e64;
+    font-size:14px;
+    margin-left:20px;
+}
+
+#n{
+    color:#292F33;
+    font-size:x-large;
+}
+
+#tsl{
+    width:100px;
+    height:100px;
+    float:right;
+    margin-top:25px;
+    margin-right:25px;
+}
+
+#Message{
+    color:red;
+}
+#cent {
+    margin-left:50%;
+}
+
